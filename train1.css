@@ -1,0 +1,33 @@
+.login{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    
+}
+.full{
+    text-align: center;
+    border: 1px solid;
+    margin: 20px;
+    padding: 20px;
+    width:18%;
+    margin-left: 40%;
+    background-color:rgb(230, 234, 236);
+
+}
+hr{
+    width: 260px;
+}
+p{
+    font-size: small;
+}
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/karwar-karnataka-india-november-01-260nw-2390069889.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.signin{
+    background-color: #f1d984f8;
+}
+.J{
+    background-color:rgb(205, 231, 247);
+}

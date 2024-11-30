@@ -1,0 +1,14 @@
+.image{
+    margin-left: 400px;
+    margin-top: 190px;
+}
+button{
+    position: relative;
+    bottom: 143px;
+    right: 520px;
+    padding: 10px;
+    width: 150px;
+}
+a{
+    color: black;
+}

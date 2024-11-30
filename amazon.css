@@ -1,0 +1,87 @@
+#image {
+    margin-left: 47%;
+    margin-top: 0%;
+}
+
+#hi {
+    width: 100px;
+    height: 60px;
+}
+
+.sign {
+    width: 350px;
+    margin: 0 auto;
+    border: 1px solid;
+    padding: 14px 18px;
+    border-radius: 8px;
+    border-color: rgb(219, 216, 216);
+    position: relative;
+
+
+}
+
+.new {
+    margin-left: 46%;
+}
+
+
+
+
+
+.email {
+    font-weight: 850;
+    font-style: normal;
+
+}
+
+input {
+    padding: 7px 88px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgb(214, 204, 204);
+}
+
+.continue {
+    margin-top: 13px;
+    padding: 10px 135px;
+    background-color: hwb(47 1% 2%);
+    font-weight: bold;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: aliceblue;
+    font-size: 12px;
+
+}
+.need{
+    color: rgba(6, 11, 17, 0.922);
+    line-height: 38px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+ 
+.shop{
+    color: blue;
+}
+.buying{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.create{
+    margin-left: 38%;
+    padding: 7px 88px;
+    background-color: white;
+    border: 1px solid;
+    border-color: rgb(178, 183, 189);
+    border-radius: 5px;
+}
+.condition{
+    margin-left: 42%;
+    color: blue;
+    font-size: small;
+}
+.amazon{
+    margin-left: 41%;
+    font-size: small;
+}
